@@ -1,0 +1,2 @@
+Full stack development refers to the comprehensive process of building a complete web application, involving both the front-end and the back-end.
+The front-end includes everything the user sees and interacts with, such as the layout, design, and interface elements created using HTML, CSS, JavaScript, and various frameworks.
